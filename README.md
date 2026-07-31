@@ -22,5 +22,9 @@ Wecolme to my github profle! I am currently completing my qualification. Through
 * I am currently applying my knowledge of these tools and skills to school assignments and practical applications
 * I am constantly learning new ways to build apps and organize databases.
 
+## Location & Contact
+* **Location**: [Bloemfontein, South Africa]
+* **Email**: matsanekoketso at gamil dot com
+
 
 
