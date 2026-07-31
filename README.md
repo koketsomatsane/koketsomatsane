@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**koketsomatsane/koketsomatsane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Koketso Matsane an IT Final year Student
 
-Here are some ideas to get you started:
+Wecolme to my github profle! I am currently completing my qualification. Through my studies, I gained experience building both front-end user inerfaces and back-end server logic. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Am Learning and Using
+
+### Front-End Development
+* **Web**: HTML5, CSS3
+* **Mobile & Cross-Platform**: Dart and Flutter
+
+### Back-End Development
+* **Languages**: C#, Python
+* **Web Frameworks**: ASP.NET Core
+
+---
+
+## More About Me
+* I am currently applying my knowledge of these tools and skills to school assignments and practical applications
+* I am constantly learning new ways to build apps and organize databases.
+
+
+
