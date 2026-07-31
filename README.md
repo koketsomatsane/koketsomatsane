@@ -24,7 +24,7 @@ Wecolme to my github profle! I am currently completing my qualification. Through
 
 ## Location & Contact
 * **Location**: [Bloemfontein, South Africa]
-* **Email**: matsanekoketso at gamil dot com
+* **Email**: matsanekoketso at gmail dot com
 
 
 
