@@ -2,7 +2,7 @@
 
 I am Koketso Matsane an IT Final year Student
 
-Welcome to my github profile! I am currently completing my qualification. Through my studies, I gained experience building both front-end user inerfaces and back-end server logic. 
+Welcome to my github profile! I am currently completing my qualification. Through my studies, I gained experience building both front-end user interfaces and back-end server logic. 
 
 ---
 
