@@ -2,9 +2,19 @@
 
 I am Koketso Matsane an IT Final year Student
 
-Wecolme to my github profle! I am currently completing my qualification. Through my studies, I gained experience building both front-end user inerfaces and back-end server logic. 
+Welcome to my github profile! I am currently completing my qualification. Through my studies, I gained experience building both front-end user inerfaces and back-end server logic. 
 
 ---
+
+## Featured Projects
+
+* **[Vehicle Management App](https://github.com/koketsomatsane/vehicle-management-app)** — A Flutter CRUD application to register, view, edit, and delete vehicle records.
+* **[Student Info Card (MVVM)](https://github.com/koketsomatsane/student-info-mvvm)** — A Flutter app built with **MVVM architecture** for managing student subjects and tracking grades in real time.
+* **[Campus FM News App](https://github.com/koketsomatsane/fm-app)** — A collaborative mobile news reader built for campus radio listeners to catch up on missed stories.
+* **[FNB App Academy — Python](https://github.com/koketsomatsane/python-activities)** — Hands-on Python scripts and programming exercises completed through the FNB App Academy.
+
+---
+
 
 ## What I Am Learning and Using
 
@@ -24,7 +34,7 @@ Wecolme to my github profle! I am currently completing my qualification. Through
 
 ## Location & Contact
 * **Location**: [Bloemfontein, South Africa]
-* **Email**: matsanekoketso at gmail dot com
+* **Email**: matsanekoketso@gmail.com
 
 
 
